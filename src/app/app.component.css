@@ -1,0 +1,9 @@
+.dropdown {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.dropdown .select .mat-form-field{
+    width: 30rem;
+}
